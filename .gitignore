@@ -1,2 +1,7 @@
 48_SE_Lab1_SE_Problem_Statements.pdf
 Lab1_RE_student_handout.pdf
+Lab_2_Jira_Student_Handout.pdf
+
+# Jira credentials
+.env
+Lab-2/.env
