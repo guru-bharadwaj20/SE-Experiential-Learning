@@ -5,7 +5,7 @@ Lab work for the Software Engineering course, Dept. of CSE, PES University.
 **Problem Statement #48:** A DevOps on-call
 management system that organises team shift rotations, routes inbound monitoring alerts through
 multi-tiered escalation ladders, and tracks incident post-mortems. Labs 1 to 3 build on this same
-system; Labs 4 and 5 are separate coding exercises on course-supplied starter repositories.
+system; Labs 4 to 6 are separate coding exercises on course-supplied starter repositories.
 
 ## Labs
 
@@ -16,6 +16,7 @@ system; Labs 4 and 5 are separate coding exercises on course-supplied starter re
 | [Lab 3](Lab-3/) | Component Modelling & Architectural Pattern Selection | UML component diagram, written architectural justification |
 | [Lab 4](Lab-4/) | Vibe Coding: AI-Assisted Debugging & Feature Completion | Fixed Whack-a-Mole game (Pygame), before and after gameplay videos, LLM chat history |
 | [Lab 5](Lab-5/) | Static Code Analysis with Pylint, Bandit & Flake8 | Cleaned gym membership script, before and after tool reports, issue table, reflection |
+| [Lab 6](Lab-6/) | Code and Branch Coverage with coverage.py & pytest | Line and branch coverage test suites for a daycare fees module, terminal screenshots |
 
 Further labs will be added here as the course progresses.
 
